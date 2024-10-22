@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eaviseve.github.io/eaviseve.txt.gz
+Sitemap: https://eaviseve.github.io/app/eaviseve.txt.gz
+Sitemap: https://eaviseve.github.io/assets/eaviseve.txt.gz
+Sitemap: https://eaviseve.github.io/css/eaviseve.txt.gz
+Sitemap: https://eaviseve.github.io/includes/eaviseve.txt.gz
+Sitemap: https://eaviseve.github.io/item/eaviseve.txt.gz
+Sitemap: https://eaviseve.github.io/src/eaviseve.txt.gz
